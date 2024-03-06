@@ -41,6 +41,15 @@ def generate_playlist(service_name: str, data: List[Dict[str, Dict]]) -> str:
         playlist_splitted.append(
             f'#EXTINF:-1 tvg-name="{channel_name}" tvg-logo="{channel_logo}" group-title="{channel_group}",{channel_name}')
 
+
+        channel_origin = channel_headers.get("origin")
+        if channel_origin:
+        playlist_splitted.append(
+        f"#EXTVLCOPT:http-origin={channel_origin}")
+
+    channel_headers.pop("origin")
+
+        
         channel_referer = channel_headers.get("referer")
         if channel_referer:
             playlist_splitted.append(
