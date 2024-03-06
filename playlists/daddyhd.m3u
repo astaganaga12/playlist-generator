@@ -1,12 +1,11 @@
 #EXTM3U
 
-# █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
-# █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
+#  █▀█ ▀█▀ ▀█▀ █▀█ 
+#  █▄█ ░█░  █  █▄█ 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-06 03:50:57 UTC
+# (●) Last Update: 2024-03-06 04:05:39 UTC
 # (●) Service: DaddyHD
 # (●) Total Channels: 1339
-# (●) Join: https://t.me/realcodecrafters
 
 #EXTINF:-1 tvg-name="ABC USA" tvg-logo="" group-title="DaddyHD",ABC USA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
