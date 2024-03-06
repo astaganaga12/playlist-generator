@@ -9,7 +9,7 @@ class DaddyHD(BaseService):
     def __init__(self) -> None:
         super().__init__(
             SERVICE_NAME="DaddyHD",
-            SERVICE_URL="https://1.dlhd.sx//24-7-channels.php",
+            SERVICE_URL="https://dlhd.sx/24-7-channels.php",
         )
 
     def _get_data(self) -> dict:
@@ -38,6 +38,7 @@ class DaddyHD(BaseService):
                 "stream-url": config_data.get("endpoint").replace("STREAM-ID", channel_id),
                 "headers": {
                     "referer": config_data.get("referer"),
+                    "origin": config_data.get("referer"),
                     "user-agent": self.USER_AGENT
                 }
             })
@@ -45,7 +46,7 @@ class DaddyHD(BaseService):
         return channels_data
 
     def _get_config_data(self) -> dict:
-        EMBED_URL = "https://1.dlhd.sx//embed/stream-1.php"
+        EMBED_URL = "https://dlhd.sx/embed/stream-1.php"
         parsed_embed = urlparse(EMBED_URL)
 
         response = requests.get(EMBED_URL)
