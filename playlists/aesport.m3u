@@ -3,7 +3,7 @@
 #  █▀█ ▀█▀ ▀█▀ █▀█ 
 #  █▄█ ░█░  █  █▄█ 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-18 23:55:05 UTC
+# (●) Last Update: 2024-03-19 01:16:02 UTC
 # (●) Service: AESport
 # (●) Total Channels: 40
 
@@ -160,22 +160,22 @@ https://us.score806.cc/us_wwe/index.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.acdsport.com/tvs/40.png" group-title="France Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/5cbE1lG6BEyWw_il_zvuF8u8dnYGdnXl7i14NhCGPzg=/1710819978352/fr_beinsports1/index.m3u8
+https://nlsec.score806.cc/EBNjBaaZAT_4GD31MCZndmAQ+YK5yrSsfeDD9MwFoQQ=/1710824858641/fr_beinsports1/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://image.acdsport.com/tvs/41.png" group-title="France Channels",BEIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/oaY5qqpMMyUbXWqGPOwvByGhLXGYq2X7sIxzhCFIm9k=/1710819978420/fr_beinsports2/index.m3u8
+https://nlsec.score806.cc/2dduVB9IjOIlarJV9GBioXCZJZwaQg1SoQsU4xaclW4=/1710824858703/fr_beinsports2/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.acdsport.com/tvs/13.png" group-title="France Channels",RMC SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/7kTsmXvuAg2edAQnw9TCgzArMFBCLtDmLUIpA+aYazE=/1710819978483/fr_rmcsport1/index.m3u8
+https://nlsec.score806.cc/9OlVrrm6rlP+ZF2TdF3KRZ9ziUNH6n9XEXMvlMydpm0=/1710824858773/fr_rmcsport1/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 2" tvg-logo="https://image.acdsport.com/upload/Livetv/RMC_SPORT_2.png" group-title="France Channels",RMC SPORT 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/r6WUgLi+j_MdtqNOc+Y7zSY0IWmeWOHlTyC3Zv0umuA=/1710819978558/fr_rmcsport2/index.m3u8
+https://nlsec.score806.cc/tM2_5PDg7Ngbayhf+qQERHW5F17AjF8Jvlbb+BBwr2U=/1710824858853/fr_rmcsport2/index.m3u8
 
 #EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.acdsport.com/tvs/33.png" group-title="Portugal Channels",Eleven Sport 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
